@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1024" style="enable-background:new 0 0 1920 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{opacity:0.5;clip-path:url(#SVGID_2_);fill:none;stroke:url(#SVGID_4_);stroke-width:26.0022;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="-0.5" width="1920" height="1024"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="3803.3877" y1="82.534" x2="2197.9915" y2="82.534" gradientTransform="matrix(0.6945 0.7195 -0.7195 0.6945 -1068.5787 -1076.561)">
+		<stop  offset="0" style="stop-color:#6895C7"/>
+		<stop  offset="0.1327" style="stop-color:#6E99C9"/>
+		<stop  offset="0.304" style="stop-color:#7EA4CF"/>
+		<stop  offset="0.4964" style="stop-color:#98B7D9"/>
+		<stop  offset="0.7043" style="stop-color:#BDD1E7"/>
+		<stop  offset="0.9223" style="stop-color:#ECF2F8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st0" d="M451.14,1738.4L229.27,847.81c-23.47-94.21,33.88-189.6,128.08-213.07l890.59-221.87
+		c94.21-23.47,189.6,33.88,213.07,128.08l221.87,890.59c23.47,94.21-33.88,189.6-128.08,213.07l-890.59,221.87
+		C570,1889.95,474.61,1832.61,451.14,1738.4z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="1559.9958" y1="1006.3573" x2="732.4423" y2="149.0692">
+		<stop  offset="0" style="stop-color:#33BDD2"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st1" d="M779.62,1012.4L618.54,365.81c-17.04-68.4,24.59-137.65,92.99-154.69l646.59-161.08
+		c68.4-17.04,137.65,24.59,154.69,92.99l161.08,646.59c17.04,68.4-24.59,137.65-92.99,154.69l-646.59,161.08
+		C865.92,1122.43,796.66,1080.79,779.62,1012.4z"/>
+</g>
+</svg>

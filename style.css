@@ -1,0 +1,196 @@
+/*
+
+Theme Name: Proxor HYRD
+Author: Jeff C
+Author URI: https://jeffcadampog.com
+Version: 1
+
+*/
+.hidden{
+	display: none;
+}
+.menu li{
+    padding: 0 1em;
+    position: relative;
+}
+
+.menu a{
+    text-align: center;
+    color: #343132;
+}
+.borderorange{
+	border: 1px solid #f48537;
+}
+h1,h2,h3{
+    font-family: 'Din Black', sans-serif;
+    color: #404041;
+}
+h1{
+	font-weight: 800;
+}
+h2{
+	font-weight: 700;
+    position: relative;
+}
+h2::after{
+    content: "";
+    position: absolute;
+    left:40%;
+    right: 40%;
+    top: 120%;
+    height: 1px;
+    background: #f37721;
+}
+p{
+    font-family: 'Din Black', sans-serif;
+    color: #343132;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background: none;
+}
+.jumbotron h1{
+   font-size: 2em;
+	color: #df2128;
+}
+.jumbotron p{
+   font-size: 1.5em;
+   color: #808080;
+}
+
+.btn-primary{
+    background: #f48537;
+    border: 0;
+    padding: 1em 2.5em;
+}
+.btn-primary:hover{
+background: #f48537;
+}
+.card{
+    border: none;
+    background: none;
+}
+.card-img{
+    padding: 2em;
+    margin: 0 auto;
+    width: 70%;
+    height: 170px;
+}
+.card:nth-child(2) .card-img{
+    width: 50%;
+}
+.card:nth-child(3) .card-img{
+    width: 60%;
+}
+
+.benefits{
+    width: 70%;
+}
+
+.list-group-item{
+    padding: 0;
+    border: none;
+    background: none;
+}
+.lead{
+    color: #343132;
+    position: relative;
+    font-weight: bold;
+}
+.lead::after{
+    content: "";
+    position: absolute;
+    left:0;
+    bottom:0;
+    height: 1px;
+    width: 100%;
+    background: #f37721;
+}
+.second-cta{
+    color: #df2128;
+    background: #fff;
+    border: 1px solid #df2128;
+    font-weight: 600;
+}
+.grey{
+    color: #404041;
+    font-weight: normal;
+}
+.holder{
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.testimonials .card{
+  position: relative;
+  background-clip: padding-box; 
+background: #fff;
+}
+
+.testimonials .card::before{
+  content: '';
+  z-index: -1;
+  position: absolute;
+  margin: -5px;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background: linear-gradient(135deg, #f37721, #f18c46, #fff);
+  border-radius: 5px;
+}
+.card-testimonials{
+    width: 70%;
+    height: 170px;
+    margin: 0 auto;
+    padding: 1.5em;
+}
+footer{
+    background: #434954;
+}
+footer .nav a,footer p{
+    color: #fff;
+    font-weight: normal;
+}
+
+
+
+/* Ultimate Member */ 
+
+.um .um-form input[type=text]{
+    border: 2px solid #343132 !important;
+}
+.um-field-area input[type=text].um-form-field,.um-field-area input[type=password].um-form-field, textarea#Company{
+    border-radius: 15px;
+}
+/*.um.um-20{
+	width: 75%;
+}
+.um.um-19{
+	width: 75%;
+}*/
+.um-19  input[type=submit].um-button{
+    font-size: 1.5em;
+    background: #f37721 !important;
+    padding: 1em 3em !important;
+}
+.um-20  input[type=submit].um-button{
+    font-size: 1.5em;
+    background: none !important;
+    border: 1px solid #f37721 !important;
+    padding: 1em 3em !important;
+	color: #f37721;
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+    .menu li:nth-child(2)::before{
+        content: '';
+        top:0;
+        left:0;
+        width: 1px;
+        height: 100%;
+        position: absolute;
+        background: #343132;
+    }
+    }
